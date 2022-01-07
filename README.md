@@ -1,4 +1,4 @@
-### O©
+# O©
 ## 17
 ##  outdated.site
-# @x_outdated
+### @x_outdated
